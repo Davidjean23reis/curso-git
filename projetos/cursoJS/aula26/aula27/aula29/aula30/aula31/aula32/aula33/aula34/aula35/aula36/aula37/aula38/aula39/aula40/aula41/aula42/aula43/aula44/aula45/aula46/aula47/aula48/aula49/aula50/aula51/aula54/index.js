@@ -1,0 +1,1 @@
+// funçoes de calback disponivel no documento, de Recursos
