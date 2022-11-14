@@ -9,7 +9,8 @@ const PessoaModel = new Schema(
     ano: Number,
     altura: Number,
     peso: Number,
-    datanascimento:Number
+    datanascimento:Number,
+    cpf:{type: String, unique:true }
   },
 
   { timestamps: true }
